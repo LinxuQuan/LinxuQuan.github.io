@@ -8,9 +8,13 @@ layout: page
 
 Here is **linxu Quan (Ben, 全麟旭)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I obtained my bachelor's degree majoring in Civil Engineering from China University of Mining and Technology./
+After graduation, I started working at China Construction Eighth Engineering Division. /
+From July 2019 to May 2023, I served as a technician at the overseas branch of China Construction Eighth Engineering Division on the Egypt CBD project, which is part of the Belt and Road Initiative../
+Currently, I am pursuing a master's degree in Computer Science at the University of Chinese Academy of Sciences, and I am also exploring opportunities for a suitable job./ 
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *lichtsgott666[at]163[dot]com*
 
 ## Academic Background
 
