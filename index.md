@@ -34,9 +34,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Network Science and Social Computing
 - Pattern Recognition and Artificial Intelligence
 - Machine Learning
-- 
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
-
 
 My interests lie in **machine learning**, **deep learning**, **big data mining, and analysis**, with a focus on applying these techniques to the field of civil engineering. I aspire to leverage my knowledge to contribute to the advancement of civil engineering.
 
