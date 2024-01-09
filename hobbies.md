@@ -3,6 +3,14 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
+## My Girlfriend
+
+This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(![我的照片](**https://YanyingWei1997.github.io**)).
+
+<div>
+<img src="/images/MyGirlfriend_1.JPG">
+</div>
+<br>
 
 # Hobbies
 
@@ -36,14 +44,6 @@ This is my love dog. Her name is Lucky (好运).
 </div>
 <br>
 
-## My Girlfriend
-
-This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(![我的照片](**https://YanyingWei1997.github.io**)).
-
-<div>
-<img src="/images/MyGirlfriend_1.JPG">
-</div>
-<br>
 
 
 ## Chat with me
