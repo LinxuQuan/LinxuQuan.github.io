@@ -5,7 +5,7 @@ title: Hobbies
 ---
 ## My Girlfriend
 
-This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(![我的照片](**https://YanyingWei1997.github.io**)).
+This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her website. [YanyingWei](https://YanyingWei1997.github.io)
 
 <div>
 <img src="/images/MyGirlfriend_1.JPG">
