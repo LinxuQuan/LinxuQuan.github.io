@@ -29,7 +29,7 @@ title: Hobbies
 
 ## My Cat
 
-This is my love. Her name is Qbo (Q宝).
+This is my love. Her name is Lucky (好运).
 
 <div>
 <img src="/images/MyDog.JPG">
