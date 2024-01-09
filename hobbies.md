@@ -35,7 +35,7 @@ This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel fre
 ## Past Hobbies
 
 
-## My Cat
+## My Dog
 
 This is my love dog. Her name is Lucky (好运).
 
