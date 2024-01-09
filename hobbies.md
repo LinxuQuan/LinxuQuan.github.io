@@ -38,7 +38,7 @@ This is my love. Her name is Lucky (好运).
 
 ## My Girlfriend
 
-This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(url:**https://YanyingWei1997.github.io**).
+This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(![我的照片](**https://YanyingWei1997.github.io**)).
 
 <div>
 <img src="/images/MyGirlfriend_1.JPG">
