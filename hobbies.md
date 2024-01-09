@@ -36,9 +36,9 @@ This is my love. Her name is Qbo (Q宝).
 </div>
 <br>
 
-## My Cat
+## My Girlfriend
 
-This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(**YanyingWei1997.github.io**).
+This is my girlfriend, an intelligent, lovely, and kind-hearted beauty. Feel free to visit her profile(**https://YanyingWei1997.github.io**).
 
 <div>
 <img src="/images/MyGirlfriend_1.JPG">
