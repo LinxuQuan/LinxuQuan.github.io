@@ -18,27 +18,26 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I expect to be admitted to the graduate program at the University of Chinese Academy of Sciences!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
-
+- **Sep 2015 - June 2019:** China University of Mining and Technology (BEng)
+- **Sep 2019 - June 2022:** China University of Mining and Technology (BEng)
 <br>
 
 ---
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
+- Civil Engineering
+- Data Science and Big Data Analysis 
+- Network Science and Social Computing
+- Pattern Recognition and Artificial Intelligence
+- Machine Learning
+- 
 - [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+My interests lie in machine learning, deep learning, big data mining, and analysis, with a focus on applying these techniques to the field of civil engineering. I aspire to leverage my knowledge to contribute to the advancement of civil engineering.
 
 <br>
 
